@@ -1,1 +1,9 @@
 appsettings.json
+bin/
+obj/
+
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
